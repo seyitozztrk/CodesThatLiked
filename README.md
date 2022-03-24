@@ -3,6 +3,7 @@
 ## derin öğrenme bilgilendirici
 * https://theaisummer.com/
 * https://fullstackdeeplearning.com/spring2021/
+* https://cs231n.github.io/
 
 *--------------------------------------------------------------------------------
 ## kaynak öneri linkleri. 
